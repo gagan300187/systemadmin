@@ -1,0 +1,8 @@
+this script will ensure that all the network interfaces are up and running
+Also, this will ensure that ssh service is up and running and there is no error in ssh configuration file.
+
+To unlock root password, attempt a login to server using:
+unlocksospass
+
+To restore old ssh config, attempt a login to server using:
+unlocksoscall
